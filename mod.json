@@ -1,0 +1,10 @@
+{
+  "name": "y-mod",
+  "displayName": "[purple]Chemistry mod",
+  "author": "merg",
+  "description": "the worst mod everrrrrr"
+  "version": "0.1"
+
+  "minGameVersion": "155.4"
+  "dependencies": []
+}

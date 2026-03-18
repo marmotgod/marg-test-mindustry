@@ -22,7 +22,7 @@ consumes: {
 outputItem: beryllium/5
 
 craftTime: 40
-craftEffect: blastExplosion
+craftEffect: steam
 
 category: crafting
 research: reinforced-conduit

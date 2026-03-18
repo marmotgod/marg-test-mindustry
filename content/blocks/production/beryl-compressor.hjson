@@ -1,0 +1,28 @@
+type: GenericCrafter
+
+health: 380
+size: 2
+
+hasItems: true
+hasPower: true
+itemCapacity: 20
+
+requirements: [
+  tungsten/4
+]
+
+consumes: {
+  power: 0.6
+  liquids: {
+    liquids: [
+      arkycite/2
+    ]
+  }
+}
+outputItem: beryllium/5
+
+craftTime: 40
+craftEffect: blastExplosion
+
+category: crafting
+research: reinforced-conduit

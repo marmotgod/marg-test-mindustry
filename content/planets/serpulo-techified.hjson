@@ -48,7 +48,7 @@ enemyBuildSpeedMultiplier: 1
 fog: true
 campaignRules.fog: true
 campaignRuleDefaults.fog: true
-defaultCore: core-a-1
+defaultCore: core-shard
 alwaysUnlocked: true
   updateLighting: true
   bloom: false

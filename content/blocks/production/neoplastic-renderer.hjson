@@ -1,0 +1,34 @@
+type: GenericCrafter
+name: Neoplastic Renderer
+health: 380
+size: 3
+
+hasItems: true
+hasLiquids:true
+hasPower: true
+itemCapacity: 20
+
+requirements: [
+  tungsten/4
+]
+
+consumes: {
+  power: 0.6
+  liquids: {
+    liquids: [
+      neoplasm/5
+    ]
+  }
+  items: {
+    items: [
+        phase-fabric/2
+    ]
+  }
+}
+outputItem: neoplastic/1
+
+craftTime: 40
+craftEffect: steam
+
+category: crafting
+research: neoplasia-reactor

@@ -1,0 +1,11 @@
+{
+  "localizedName": "Ground Zero",
+  "description": "its a place",
+  "captureWave": 11,
+  "difficulty": 1,
+  "planet": "Serpulo Techified",
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": false,
+  "addStartingItems": true,
+  "sector": 0
+}

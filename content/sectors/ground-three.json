@@ -3,7 +3,7 @@
   "description": "its a place",
   "captureWave": 11,
   "difficulty": 1,
-  "planet": "Serpulo Techified",
+  "planet": "serpulo-techified",
   "allowLaunchLoadout": true,
   "allowLaunchSchematics": false,
   "addStartingItems": true,

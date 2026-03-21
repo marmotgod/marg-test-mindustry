@@ -56,7 +56,7 @@ alwaysUnlocked: true
 cloudMesh: [
 {
     type: HexSkyMesh
-    planet: dunes 
+    planet: Serpulo Techified 
     seed: 74
     speed: 0.8
     radius: 0.13
@@ -69,7 +69,7 @@ cloudMesh: [
 }
 {
     type: HexSkyMesh
-    planet: dunes 
+    planet: Serpulo Techified 
     seed: 64
     speed: 0.2
     radius: 0.13
@@ -84,7 +84,7 @@ cloudMesh: [
 mesh: [
   {
     type: NoiseMesh
-    planet: dunes
+    planet: Serpulo Techified
     seed: 562697
     color1: FFE4C9
     color2: 76151EFF
@@ -99,7 +99,7 @@ mesh: [
   }
   { 
   type: NoiseMesh
-  planet: dunes
+  planet: Serpulo Techified
   seed: 644564
   color1: AF2A2AFF
   color2: FFE4C9
@@ -112,7 +112,7 @@ mesh: [
   }
   {
      type: NoiseMesh
-  planet: dunes
+  planet: Serpulo Techified
   seed: 756452
   color1: FFE4C9
   color2:  8E665CFF
@@ -126,7 +126,7 @@ mesh: [
   }
   {
      type: NoiseMesh
-  planet: dunes
+  planet: Serpulo Techified
   seed: 435678
   color1: FFE4C9
   color2: AF2A2AFF
@@ -143,22 +143,6 @@ launchCandidates: []
 itemWhitelist: [
 "sand"
 "silicon"
-"item-a-1"
-"item-a-2"
-"item-a-3"
-"item-a-4"
-"item-a-5"
-"item-a-6"
-"item-a-7"
-"item-a-8"
-"item-a-9"
-"item-b-1"
-"item-b-2"
-"item-b-3"
-"item-b-4"
-"item-b-5"
-"item-b-6"
-"item-b-7"
 ]
 hiddenItems: [
     "copper"

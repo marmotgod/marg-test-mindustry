@@ -1,24 +1,24 @@
 type: CoreBlock
-name: Core:Guide
+name:"Core:Guide"
 requirements: [
   tungsten/4
 ]
 
-isFirstTier = true;
-unitType = UnitTypes.evoke;
-health = 4500;
-itemCapacity = 2000;
-thrusterLength = 34/4f;
-armor = 5f;
-alwaysUnlocked = true;
-incinerateNonBuildable = true;
-requiresCoreZone = true;
+isFirstTier:true
+unitType:UnitTypes.evoke
+health:4500
+itemCapacity:2000
+thrusterLength:34/4f
+armor:5f
+alwaysUnlocked:true
+incinerateNonBuildable:true
+requiresCoreZone:true
 
 //TODO should this be higher?
-buildCostMultiplier = 0.7f;
+buildCostMultiplier:0.7f
 
-unitCapModifier = 15;
-researchCostMultiplier = 0.07f;
+unitCapModifier:15
+researchCostMultiplier:0.07f
 
 category: storage
 research: reinforced-conduit

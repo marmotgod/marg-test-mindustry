@@ -1,5 +1,5 @@
 type: CoreBlock
-name: Core: Guide
+name: Core:Guide
 requirements: [
   tungsten/4
 ]

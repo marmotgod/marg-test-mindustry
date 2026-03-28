@@ -11,9 +11,6 @@ category: effect
 unitType: evoke
 unitCapModifier: 7
 thrusterLength: 15
-hasPower: true
-conductivePower: true
-outputsPower: true
 requirements: [
   copper/1
 ]

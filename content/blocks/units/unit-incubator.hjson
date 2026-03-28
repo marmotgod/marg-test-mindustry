@@ -1,0 +1,27 @@
+type: UnitFactory
+
+health: 550
+size: 3
+itemCapacity: 30
+
+requirements: [
+    neoplastic/50
+]
+
+plans: [
+    {
+        unit: neoplastic-crawler,
+        requirements: [
+            neoplastic/10
+        ],
+        time: 1100
+    }
+]
+
+category: units
+
+consumes: {
+    power: 1.5
+}
+
+research: neoplastic-extruder

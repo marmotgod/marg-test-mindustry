@@ -8,7 +8,7 @@ isFirstTier:true
 unitType:evoke
 health:4500
 itemCapacity:2000
-thrusterLength:34/4
+thrusterLength:6
 armor:5
 alwaysUnlocked:true
 incinerateNonBuildable:true

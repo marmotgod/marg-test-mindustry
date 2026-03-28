@@ -1,5 +1,5 @@
 type: GenericCrafter
-name: Neoplastic Renderer
+name: Neoplastic Extruder
 health: 380
 size: 4
 
@@ -16,7 +16,7 @@ consumes: {
   power: 0.6
   liquids: {
     liquids: [
-      neoplasm/5
+      neoplasm/0.5
     ]
   }
   items: {

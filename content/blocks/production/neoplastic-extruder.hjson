@@ -16,7 +16,7 @@ consumes: {
   power: 0.6
   liquids: {
     liquids: [
-      neoplasm/0.01
+      neoplasm/0.1
     ]
   }
   items: {

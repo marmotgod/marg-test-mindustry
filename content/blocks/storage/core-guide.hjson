@@ -8,17 +8,17 @@ isFirstTier:true
 unitType:evoke
 health:4500
 itemCapacity:2000
-thrusterLength:34/4f
-armor:5f
+thrusterLength:34/4
+armor:5
 alwaysUnlocked:true
 incinerateNonBuildable:true
 requiresCoreZone:true
 
 //TODO should this be higher?
-buildCostMultiplier:0.7f
+buildCostMultiplier:0.7
 
 unitCapModifier:15
-researchCostMultiplier:0.07f
+researchCostMultiplier:0.07
 
 category: storage
 research: reinforced-conduit

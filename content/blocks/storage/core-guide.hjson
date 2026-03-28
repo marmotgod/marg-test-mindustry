@@ -5,7 +5,7 @@ requirements: [
 ]
 
 isFirstTier:true
-unitType:UnitTypes.evoke
+unitType:evoke
 health:4500
 itemCapacity:2000
 thrusterLength:34/4f
